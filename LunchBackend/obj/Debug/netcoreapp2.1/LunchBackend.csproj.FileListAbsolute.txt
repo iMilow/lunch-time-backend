@@ -1,0 +1,16 @@
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\appsettings.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\LunchBackend.deps.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\LunchBackend.runtimeconfig.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\LunchBackend.runtimeconfig.dev.json
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\LunchBackend.dll
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.csprojAssemblyReference.cache
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.RazorAssemblyInfo.cache
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.RazorAssemblyInfo.cs
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.AssemblyInfoInputs.cache
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.AssemblyInfo.cs
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.RazorTargetAssemblyInfo.cache
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\bin\Debug\netcoreapp2.1\LunchBackend.pdb
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.dll
+D:\TMP - Workload\Aufgabe\LunchBackend\LunchBackend\obj\Debug\netcoreapp2.1\LunchBackend.pdb
